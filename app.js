@@ -3,6 +3,7 @@ let reset = document.querySelector("#reset-btn");
 let rstBttn = document.querySelector("#reset-btn");
 let msgContainer = document.querySelector(".msgContainer");
 let newGameBttn = document.querySelector(".newGm");
+let msg = document.querySelector(".newGm");
 
 let turn0 = true;
 
